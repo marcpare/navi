@@ -1,0 +1,7 @@
+% git, zsh
+
+# Command git
+g
+
+# Command git pull --rebase origin $(current_branch)
+ggpur	
