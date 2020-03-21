@@ -1,0 +1,12 @@
+% aws, aws-vault
+# Command Store AWS credentials for a profile
+aws-vault add <profile>
+
+# Command Execute a command (using temporary credentials)
+aws-vault exec <profile> --
+
+# Command Open a browser window and login to the AWS Console
+aws-vault login <profile>
+
+# Command List credentials
+aws-vault list
