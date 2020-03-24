@@ -1,0 +1,3 @@
+% git
+# Command Set local git user email
+git config --local user.email <email>
