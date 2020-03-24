@@ -10,3 +10,8 @@ aws-vault login <profile>
 
 # Command List credentials
 aws-vault list
+
+% git
+
+# Set local git user email
+git config --local user.email <email>
