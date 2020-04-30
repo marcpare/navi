@@ -1,0 +1,6 @@
+% arable
+# Login to the ALT console
+aws-vault login arable-alt-admin
+
+# Login to the Production console
+aws-vault login arable-prod-admin
