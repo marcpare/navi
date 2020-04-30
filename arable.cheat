@@ -4,3 +4,6 @@ aws-vault login arable-alt-admin
 
 # Login to the Production console
 aws-vault login arable-prod-admin
+
+# Dummy item at the end
+aws-vault login arable-prod-admin
