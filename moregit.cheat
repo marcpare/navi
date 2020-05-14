@@ -2,3 +2,6 @@
 
 # Set local git user email
 git config --local user.email <email>
+
+# Dummy item at the end
+echo "foo"
