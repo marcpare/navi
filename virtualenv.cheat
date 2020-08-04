@@ -1,0 +1,7 @@
+% python
+
+# Create a new virtual environment
+python3 -m venv ~/venvs/<name>
+
+# Dummy item at the end
+echo "foo"
