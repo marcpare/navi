@@ -3,7 +3,7 @@
 # Create a new virtual environment
 python3 -m venv ~/venvs/<name>
 
-# Create a py27 virutal environment
+# Create a py27 virtual environment
 virtualenv --python=/usr/bin/python2.7 ~/venvs/<name>
 
 # Dummy item at the end
