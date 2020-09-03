@@ -11,5 +11,8 @@ aws-vault exec arable-alt-admin --
 # Run command on Production
 aws-vault exec arable-prod-admin -- 
 
+# Create alembic migration
+alembic revision -m "<message>"
+
 # Dummy item at the end
 aws-vault login arable-prod-admin
