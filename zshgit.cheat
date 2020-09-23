@@ -219,3 +219,6 @@ gvt
 gwch
 # Command git add -A; git ls-files --deleted -z | xargs -r0 git rm; git commit -m "--wip--"
 gwip
+
+# Dummy item at the end
+echo "foo"

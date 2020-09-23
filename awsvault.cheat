@@ -10,3 +10,6 @@ aws-vault login <profile>
 
 # Command List credentials
 aws-vault list
+
+# Dummy item at the end
+echo "foo"

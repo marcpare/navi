@@ -1,0 +1,10 @@
+% bash
+
+# Convert a datetime into a unix epoch time
+gdate -d <datetime> "+%s"
+
+# Convert a unix epoch time into a date
+gdate -d @<epoch time>
+
+# Dummy item at the end
+echo "foo"
